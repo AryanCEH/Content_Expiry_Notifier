@@ -1,0 +1,5 @@
+# Requirements for Content Expiry Notifier
+
+datetime 
+smtplib
+MIMEText
